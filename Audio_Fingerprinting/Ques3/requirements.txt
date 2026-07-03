@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+librosa>=0.10
+soundfile>=0.12
+matplotlib>=3.7
+streamlit>=1.28
+fpdf2>=2.7
+pillow>=9.0
